@@ -32,4 +32,4 @@ $RECYCLE.BIN/
 *.code-workspace
 
 # SECRET_KEY
-secret_key
+.env
